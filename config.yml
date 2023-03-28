@@ -16,6 +16,21 @@ menu:
     weight: 30
 
 params:
+  profileMode:
+    enabled: true
+    title: Antoine Jeanson # optional default will be site title
+    subtitle: Maker | Engineer | Developper | Spaceflight enthusiast
+    imageUrl: images/home_portrait.jpg # optional
+    imageTitle: A picture of me # optional
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/antoinejeanson"
+    - name: linkedIn
+      url: "https://www.linkedin.com/in/antoinejeanson/"
+  
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
