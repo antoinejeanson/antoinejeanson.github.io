@@ -8,8 +8,8 @@ menu:
   - name: Home
     pageRef: /
     weight: 10
-  - name: Archive
-    pageRef: /archive
+  - name: Blog
+    pageRef: /blog
     weight: 20
   - name: About
     pageRef: /about
@@ -18,5 +18,5 @@ menu:
 params:
   ShowReadingTime: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
