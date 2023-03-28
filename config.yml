@@ -1,4 +1,4 @@
-baseURL: 'http://antoinejeanson.github.io/'
+baseURL: 'https://antoinejeanson.github.io/'
 languageCode: 'en-us'
 title: 'Antoine Jeanson'
 theme: 'PaperMod'
