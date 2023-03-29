@@ -18,12 +18,12 @@ menu:
 params:
   profileMode:
     enabled: true
-    title: Antoine Jeanson # optional default will be site title
-    subtitle: Maker | Engineer | Developper | Spaceflight enthusiast
-    imageUrl: images/home_portrait.jpg # optional
-    imageTitle: A picture of me # optional
-    imageWidth: 240 # custom size
-    imageHeight: 240 # custom size
+    title: Antoine Jeanson
+    subtitle: Engineer | Maker | Spaceflight enthusiast
+    imageUrl: images/home_portrait.jpg
+    imageTitle: A picture of me
+    imageWidth: 240
+    imageHeight: 240
 
   socialIcons:
     - name: github
