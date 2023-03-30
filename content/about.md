@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-draft: false
+draft: true
 showReadingTime: false
 ---
 # Hi there !
