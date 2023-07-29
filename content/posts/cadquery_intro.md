@@ -26,14 +26,19 @@ cq.exporters.export(result, "test.stl")
 
 Even without deep knowledge of Python, this is readable and very close to how you would describe it using plain words.
 
-# Why is CADQuery so cool ?
+# Why am I so exited ?
 
-Ever wanted to serve parameteric CAD parts from FastAPI ?
-To integrate the power of Git versioning to your CAD projects ?
-To use CI/CD tools with mechanical engineering workflows ?
+I really like building stuff _as_ code.
+Not necessarly developping stuff, but I like the idea of defining things using code.
+It allows you to use tools such as Git and Continuous Integration / Continuous Delivery (CI/CD) to improve your
+workflow.
+A text editor you like is much more usable than an un-ergonomic graphical user interface.
 
-Maybe. Maybe not. Anyways CadQuery is one more open-source tool to consider when building stuff that require mechanical
-parts. The fact your part is code and the integration of Python capabilities is the icing on the cake.
+CAD is integral to maker culture, and CadQuery is one more open-source tool to consider when building mechanical stuff.
+
+To me, the fact your part is code and the integration of Python capabilities is the icing on the cake.
+
+Integrating code to design opens the door to workflows that have the potential to revolutionize plenty of fields.
 
 # Trying it out
 
