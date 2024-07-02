@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     title: Antoine Jeanson
-    subtitle: Engineer | Maker | Spaceflight enthusiast
+    subtitle: Engineer | Maker | Spaceflight enthusiast | Photographer
     imageUrl: images/home_portrait.jpg
     imageTitle: A picture of me
     imageWidth: 240
@@ -27,6 +27,8 @@ params:
       url: "https://github.com/antoinejeanson"
     - name: linkedIn
       url: "https://www.linkedin.com/in/antoinejeanson/"
+    - name: instagram
+      url: "https://www.instagram.com/antoinejeanson/"
   
   ShowReadingTime: true
   ShowPostNavLinks: true
